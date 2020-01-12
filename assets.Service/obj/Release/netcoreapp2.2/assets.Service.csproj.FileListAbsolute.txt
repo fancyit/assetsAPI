@@ -1,0 +1,13 @@
+E:\repos\C#\assetsAPI\assets.Service\bin\Release\netcoreapp2.2\assets.Service.deps.json
+E:\repos\C#\assetsAPI\assets.Service\bin\Release\netcoreapp2.2\assets.Service.runtimeconfig.json
+E:\repos\C#\assetsAPI\assets.Service\bin\Release\netcoreapp2.2\assets.Service.runtimeconfig.dev.json
+E:\repos\C#\assetsAPI\assets.Service\bin\Release\netcoreapp2.2\assets.Service.dll
+E:\repos\C#\assetsAPI\assets.Service\bin\Release\netcoreapp2.2\assets.Service.pdb
+E:\repos\C#\assetsAPI\assets.Service\bin\Release\netcoreapp2.2\assets.Data.dll
+E:\repos\C#\assetsAPI\assets.Service\bin\Release\netcoreapp2.2\assets.Data.pdb
+E:\repos\C#\assetsAPI\assets.Service\obj\Release\netcoreapp2.2\assets.Service.csprojAssemblyReference.cache
+E:\repos\C#\assetsAPI\assets.Service\obj\Release\netcoreapp2.2\assets.Service.AssemblyInfoInputs.cache
+E:\repos\C#\assetsAPI\assets.Service\obj\Release\netcoreapp2.2\assets.Service.AssemblyInfo.cs
+E:\repos\C#\assetsAPI\assets.Service\obj\Release\netcoreapp2.2\assets.Service.csproj.CopyComplete
+E:\repos\C#\assetsAPI\assets.Service\obj\Release\netcoreapp2.2\assets.Service.dll
+E:\repos\C#\assetsAPI\assets.Service\obj\Release\netcoreapp2.2\assets.Service.pdb

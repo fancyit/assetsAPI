@@ -1,0 +1,10 @@
+E:\repos\C#\assetsAPI\assets.Data\bin\Release\netcoreapp2.2\assets.Data.deps.json
+E:\repos\C#\assetsAPI\assets.Data\bin\Release\netcoreapp2.2\assets.Data.runtimeconfig.json
+E:\repos\C#\assetsAPI\assets.Data\bin\Release\netcoreapp2.2\assets.Data.runtimeconfig.dev.json
+E:\repos\C#\assetsAPI\assets.Data\bin\Release\netcoreapp2.2\assets.Data.dll
+E:\repos\C#\assetsAPI\assets.Data\bin\Release\netcoreapp2.2\assets.Data.pdb
+E:\repos\C#\assetsAPI\assets.Data\obj\Release\netcoreapp2.2\assets.Data.csprojAssemblyReference.cache
+E:\repos\C#\assetsAPI\assets.Data\obj\Release\netcoreapp2.2\assets.Data.AssemblyInfoInputs.cache
+E:\repos\C#\assetsAPI\assets.Data\obj\Release\netcoreapp2.2\assets.Data.AssemblyInfo.cs
+E:\repos\C#\assetsAPI\assets.Data\obj\Release\netcoreapp2.2\assets.Data.dll
+E:\repos\C#\assetsAPI\assets.Data\obj\Release\netcoreapp2.2\assets.Data.pdb

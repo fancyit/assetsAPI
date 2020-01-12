@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "assets.Service/1.0.0": {
+        "dependencies": {
+          "assets.Data": "1.0.0"
+        },
+        "runtime": {
+          "assets.Service.dll": {}
+        }
+      },
+      "assets.Data/1.0.0": {
+        "runtime": {
+          "assets.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "assets.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "assets.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
